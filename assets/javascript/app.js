@@ -11,43 +11,43 @@ $(document).on('click', '#done', function(){
 // Set of questions and answers 
 var questions =[{
     question:"What is the highest point in Colorado?",
-    answers:["Mount Massive  ", "Mount Elbert  ", "Longs Peak  ", "BestBudz Dispensary  "],
+    answers:["Mount Massive", "Mount Elbert", "Longs Peak", "BestBudz Dispensary"],
     correctAnswer:"Mount Elbert",
 }, {    
     question:"Coloradans when compared to all other states, have the lowest rates of what?",
-    answers:["Heart Failure  ", "Depression  ", "Obesity  ", "Brown Eyes  " ],
+    answers:["Heart Failure", "Depression", "Obesity", "Brown Eyes" ],
     correctAnswer:"Obesity",
 }, {    
     question:"The Grand Mesa, located to the southeast of Grand Junction, is said to be the world's largest what?",
-    answers:["Flat-topped mountain  ", "Discovery site of dinosaur bones  ", "Undergound secret lair  ", "Deposit of volcanic basalt  " ],
+    answers:["Flat-topped mountain", "Discovery site of dinosaur bones", "Undergound secret lair", "Deposit of volcanic basalt" ],
     correctAnswer:"Flat-topped mountain",
 }, {    
     question:"The Colorado sliver boom was set off by the discovery of a major silver lode near what city in 1878?",
-    answers:["Gold Hill  ", "Leadville  ", "Silverthorn  ", "Silverton  " ],
+    answers:["Gold Hill", "Leadville", "Silverthorn", "Silverton" ],
     correctAnswer:"Leadville",
 }, {    
     question:"In Colorado, on November 6, 2012, voters voted to legalize the personal use of what?",
-    answers:["Cordless hand mixers  ", "Flour containing gluten  ", "Blue-tooth earpieces  ", "Marijuana  " ],
+    answers:["Cordless hand mixers", "Flour containing gluten", "Blue-tooth earpieces", "Marijuana" ],
     correctAnswer:"Marijuana",
 }, {    
     question:"Nederland, CO is most famous for what festival?",
-    answers:["Frozen Dead Guy Days  ", "Burning Man  ", "Coachella  ", "Woodstock  " ],
+    answers:["Frozen Dead Guy Days", "Burning Man", "Coachella", "Woodstock" ],
     correctAnswer:"Frozen Dead Guy Days",
 }, {    
     question:"What is the longest continuous street in America?",
-    answers:["Colfax Avenue  ", "Baseline Road  ", "Evans Avenue  ", "Colorado Street  " ],
+    answers:["Colfax Avenue", "Baseline Road", "Evans Avenue", "Colorado Street" ],
     correctAnswer:"Colfax Avenue",
 }, {    
     question: "Of the many things that are illegal in Boulder, CO, which of the following is actually illegal?",
-    answers:["Petting a strangers bird  ", "Herding pigs  ", "Climbing rocks barefoot  ", "Drinking hot tea outside in August  " ],
+    answers:["Petting a strangers bird", "Herding pigs", "Climbing rocks barefoot", "Drinking hot tea outside in August" ],
     correctAnswer:"Herding pigs",
 }, {    
     question:"Which popular American dish was trademarked by Louis Ballast of Denver’s ‘Humpty Dumpty Drive-In’ in 1935?",
-    answers:["Hot Dog  ", "Ice Cream Shake  ", "Cheeseburger  ", "Onion Rings  " ],
+    answers:["Hot Dog", "Ice Cream Shake", "Cheeseburger", "Onion Rings" ],
     correctAnswer:"Cheeseburger",
 }, {
     question:"Which US President signed a proclamation that admitted Colorado to the Union?",
-    answers:["Ulysses S. Grant  ", "George W. Bush  ", "Rutherford Hayes  ", "James Garfield " ],
+    answers:["Ulysses S. Grant", "George W. Bush", "Rutherford Hayes", "James Garfield" ],
     correctAnswer:"Ulysses S. Grant",
 }]
 
